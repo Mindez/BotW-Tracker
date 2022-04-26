@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Paraglider",
+        "type": "toggle",
+        "img": "images/paraglider_434-252.png",
+        "codes": "paraglider"
+    },
+    {
+        "name": "Master Sword",
+        "type": "toggle",
+        "img": "images/mastersword_587-2437.png",
+        "codes": "mastersword"
+    }
+]

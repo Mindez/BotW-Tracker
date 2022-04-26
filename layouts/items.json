@@ -1,0 +1,136 @@
+{
+    "tracker_items": {
+		"type": "array",
+		"orientation": "horizontal",
+		"content": [
+			{
+				"type": "array",
+				"orientation": "vertical",
+				"content": [
+					{
+						"type": "item",
+						"h_alignment": "center",
+						"item": "paraglider",
+						"width": 128
+					},
+					{
+						"type": "itemgrid",
+						"h_alignment": "center",
+						"item_margin": "2,4",
+						"item_size": 32,
+						"rows": [
+							[
+								"spiritorb1",
+								"spiritorb2",
+								"spiritorb3",
+								"spiritorb4",
+							],
+							[
+								"spiritorb5",
+								"spiritorb6",
+								"spiritorb7",
+								"spiritorb8",
+							],
+							[
+								"spiritorb9",
+								"spiritorb10",
+								"spiritorb11",
+								"spiritorb12",
+							],
+							[
+								"spiritorb13",
+								"spiritorb14",
+								"spiritorb15",
+								"spiritorb16",
+							],
+							[
+								"spiritorb17",
+								"spiritorb18",
+								"spiritorb19",
+								"spiritorb20",
+							],
+							[
+								"spiritorb21",
+								"spiritorb22",
+								"spiritorb23",
+								"spiritorb24",
+							],
+							[
+								"spiritorb25",
+								"spiritorb26",
+								"spiritorb27",
+								"spiritorb28",
+							],
+							[
+								"spiritorb29",
+								"spiritorb30",
+								"spiritorb31",
+								"spiritorb32",
+							],
+							[
+								"spiritorb33",
+								"spiritorb34",
+								"spiritorb35",
+								"spiritorb36",
+							],
+							[
+								"spiritorb37",
+								"spiritorb38",
+								"spiritorb39",
+								"spiritorb40",
+							]
+						]
+					},
+					{
+						"type": "item",
+						"h_alignment": "center",
+						"item": "mastersword",
+						"height": 128
+					},
+				]
+			},
+			{
+				"type": "array",
+				"orientation": "vertical",
+				"content": [
+					{
+						"type": "image",
+						"image": "images/heartcontainer_385-347.png",
+						"margin": "1,2",
+						"width": 44
+					},
+					{
+						"type": "image",
+						"image": "images/heartcontainer_385-347.png",
+						"margin": "1,2",
+						"width": 44
+					},
+					{
+						"type": "image",
+						"image": "images/heartcontainer_385-347.png",
+						"margin": "1,2",
+						"width": 44
+					},
+					{
+						"type": "itemgrid",
+						"item": "heartcontainer",
+						"item_margin": "1,2",
+						"item_size": 44,
+						"rows": [
+							[ "heartcontainer1" ],
+							[ "heartcontainer2" ],
+							[ "heartcontainer3" ],
+							[ "heartcontainer4" ],
+							[ "heartcontainer5" ],
+							[ "heartcontainer6" ],
+							[ "heartcontainer7" ],
+							[ "heartcontainer8" ],
+							[ "heartcontainer9" ],
+							[ "heartcontainer10" ],
+						]
+					}
+				]
+			}
+		]
+	}
+}

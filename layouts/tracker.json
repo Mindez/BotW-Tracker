@@ -1,0 +1,18 @@
+{
+    "tracker_default": {
+		"type": "group",
+		"header": "Items",
+		"dock": "top",
+		"content": {
+			"type": "layout",
+			"key": "tracker_items"
+		}
+	},
+    "tracker_broadcast": {
+        "type": "container",
+        "content": {
+            "type": "layout",
+            "key": "tracker_items"
+        }
+    }
+}

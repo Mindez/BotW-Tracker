@@ -1,0 +1,13 @@
+﻿{
+    "name": "The Legend of Zelda: Breath of the Wild Randomizer Tracker by Mindez",
+    "game_name": "The Legend of Zelda: Breath of the Wild",
+    "platform": "gb",
+    "package_version": "1.0.0",
+    "package_uid": "tloz_botw_mindez",
+    "author": "Mindez",
+    "variants": {
+        "standard": {
+            "display_name": "Spirit Orb Randomiser by MelonSpeedruns"
+        }
+    }
+}
